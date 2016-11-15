@@ -15,5 +15,9 @@ On a eu un delai de 2 jours pour concevoir et réaliser un prototype à partir d
 On a utilisé les logiciels Arduino , Processing et Fritzing. 
 On a également utilisé différentes résistances, des condensateurs, des leds et une bobine.
 
+#Bilan
+
+Il y a eu des difficultés au niveau du matériel ce qui à compliqué la tache mais sinon le projet à abouti. Nous avons même élaboré certaines idées sur plusieurs aplications possible qui avec plus de temps auraient pu voir le jour ! 
+
 
 
